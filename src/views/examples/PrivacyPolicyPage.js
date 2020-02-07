@@ -70,7 +70,7 @@ function PrivacyPolicyPage() {
 
             <h3 className="title">6. Updating, Correcting and Deleting Your Information; Opt-out.</h3>
             <Row style={{ paddingTop: '20px' }}>
-              <p>If you believe that AntonioAppDev has incorrect Site Information or Product Information that was provided as part of the Services, you may use the Services to correct, amend, or delete that information. </p>
+              <p>If you believe Walter Garzon has incorrect Site Information or Product Information that was provided as part of the Services, you may use the Services to correct, amend, or delete that information. </p>
               <p>From time to time, we may send you emails about Products or new or modified Services that we believe might interest you. If you wish to opt-out of receiving these materials, you may follow the unsubscribe procedure provided in the email.</p>
 				
             </Row>
